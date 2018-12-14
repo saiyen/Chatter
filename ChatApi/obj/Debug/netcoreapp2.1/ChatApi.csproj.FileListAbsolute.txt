@@ -1,0 +1,19 @@
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.deps.json
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.runtimeconfig.json
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.runtimeconfig.dev.json
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.pdb
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\bin\Debug\netcoreapp2.1\Data Access Layer.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\bin\Debug\netcoreapp2.1\Repository Layer.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\bin\Debug\netcoreapp2.1\Data Access Layer.pdb
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\bin\Debug\netcoreapp2.1\Repository Layer.pdb
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.csprojAssemblyReference.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.csproj.CoreCompileInputs.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.RazorAssemblyInfo.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.RazorAssemblyInfo.cs
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.AssemblyInfoInputs.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.AssemblyInfo.cs
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.RazorTargetAssemblyInfo.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.csproj.CopyComplete
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.pdb

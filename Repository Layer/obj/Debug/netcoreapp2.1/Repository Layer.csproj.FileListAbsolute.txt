@@ -1,0 +1,12 @@
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\bin\Debug\netcoreapp2.1\Repository Layer.deps.json
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\bin\Debug\netcoreapp2.1\Repository Layer.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\bin\Debug\netcoreapp2.1\Repository Layer.pdb
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\bin\Debug\netcoreapp2.1\Data Access Layer.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\bin\Debug\netcoreapp2.1\Data Access Layer.pdb
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\obj\Debug\netcoreapp2.1\Repository Layer.csprojAssemblyReference.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\obj\Debug\netcoreapp2.1\Repository Layer.csproj.CoreCompileInputs.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\obj\Debug\netcoreapp2.1\Repository Layer.AssemblyInfoInputs.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\obj\Debug\netcoreapp2.1\Repository Layer.AssemblyInfo.cs
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\obj\Debug\netcoreapp2.1\Repository Layer.csproj.CopyComplete
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\obj\Debug\netcoreapp2.1\Repository Layer.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Repository Layer\obj\Debug\netcoreapp2.1\Repository Layer.pdb

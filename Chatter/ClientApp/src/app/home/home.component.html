@@ -1,0 +1,58 @@
+<h1>Mijn Chatroom</h1>
+<p>Welkom bij de leukste chatroom van Nederland</p>
+
+<div class="container">
+  <h2>Hello {{nick}}!</h2>
+  <form (ngSubmit)="sendMessage()" #chatForm="ngForm">
+    <div>
+      <label for="message">Message</label>
+      <input type="text" id="message" name="message" [(ngModel)]="message" required>
+    </div>
+    <button type="submit" id="sendmessage" [disabled]="!chatForm.valid">
+      Send
+    </button>
+  </form>
+</div>
+
+<div class="container">
+  <div class="row">
+    <nav class="menu">
+      <ul class="items">
+        <li class="item item-active">
+          <i class="fa fa-home" aria-hidden="true"></i>
+        </li>
+        <li class="item">
+          <i class="fa fa-user" aria-hidden="true"></i>
+        </li>
+        <li class="item">
+          <i class="fa fa-pencil" aria-hidden="true"></i>
+        </li>
+        <li class="item">
+          <i class="fa fa-commenting" aria-hidden="true"></i>
+        </li>
+        <li class="item">
+          <i class="fa fa-file" aria-hidden="true"></i>
+        </li>
+        <li class="item">
+          <i class="fa fa-cog" aria-hidden="true"></i>
+        </li>
+      </ul>
+    </nav>
+    <div class="container" *ngIf="messages.length > 0">
+      <div *ngFor="let message of messages">
+        <span>{{message}}</span>
+      </div>
+    </div>
+    <div class="panel-footer">
+      <div class="input-group">
+        <input id="btn-input" type="text" class="form-control input-sm" placeholder="Type your message here..." />
+        <span class="input-group-btn">
+          <button class="btn btn-warning btn-sm" id="btn-chat">
+            Send
+          </button>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+

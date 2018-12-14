@@ -1,0 +1,10 @@
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\bin\Debug\netcoreapp2.1\Data Access Layer.deps.json
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\bin\Debug\netcoreapp2.1\Data Access Layer.runtimeconfig.json
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\bin\Debug\netcoreapp2.1\Data Access Layer.runtimeconfig.dev.json
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\bin\Debug\netcoreapp2.1\Data Access Layer.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\bin\Debug\netcoreapp2.1\Data Access Layer.pdb
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\obj\Debug\netcoreapp2.1\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\obj\Debug\netcoreapp2.1\Data Access Layer.AssemblyInfoInputs.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\obj\Debug\netcoreapp2.1\Data Access Layer.AssemblyInfo.cs
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\obj\Debug\netcoreapp2.1\Data Access Layer.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Chatter\Data Access Layer\obj\Debug\netcoreapp2.1\Data Access Layer.pdb
